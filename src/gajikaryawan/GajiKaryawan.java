@@ -10,7 +10,7 @@ class GajiKaryawan {
     byte gol,hari;
     int potongan,gapok,transport,total,gaji;
    
-    System.out.println ("    INPUT GAJI KARYAWAN  BARU  ");
+    System.out.println ("    INPUT GAJI KARYAWAN LAMA  ");
     System.out.println ("==============================");
    
     System.out.print ("Masukkan Nama : ");
