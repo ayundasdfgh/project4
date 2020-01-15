@@ -2,7 +2,7 @@
 package gajikaryawan;
 import java.util.Scanner;
 
-class GajiKaryawan {
+public class GajiKaryawan {
 
     public static void main(String[] args) {
     Scanner input = new Scanner (System.in);
@@ -10,7 +10,7 @@ class GajiKaryawan {
     byte gol,hari;
     int potongan,gapok,transport,total,gaji;
    
-    System.out.println ("    INPUT GAJI KARYAWAN  ");
+    System.out.println ("    INPUT GAJI KARYAWAN  NEW");
     System.out.println ("==============================");
    
     System.out.print ("Masukkan Nama : ");
