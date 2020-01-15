@@ -48,7 +48,7 @@ public class GajiKaryawan {
                 System.out.println ("Gaji Bersih : "+total);
                 break;
             case 2:
-                gapok = 2500000;
+                gapok = 3500000;
                 potongan = gapok*3/100;
                 gaji = gapok-potongan;
                 total = gaji+transport;
