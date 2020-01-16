@@ -38,7 +38,7 @@ public class GajiKaryawan {
    
     switch (gol) {
             case 1:
-                gapok = 3000000;
+                gapok = 4000000;
                 potongan = gapok*5/100;
                 gaji = gapok-potongan;
                 total = gaji+transport;
